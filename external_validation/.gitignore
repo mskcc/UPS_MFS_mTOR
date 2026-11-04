@@ -1,0 +1,17 @@
+# Input data are public and not redistributed — see data/README.md
+data/raw/
+data/processed/
+
+# OS / R clutter
+.DS_Store
+Thumbs.db
+Rplots.pdf
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+*.part
+
+# Figures are versioned as PDF only; PNG copies are local previews
+figures/*.png
+results/**/*.png

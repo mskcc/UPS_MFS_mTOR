@@ -1,0 +1,3 @@
+"Cohort","Endpoint","N","Events","Comparison","Reference","HR","CI_lower_95","CI_upper_95","Logrank_p","Cox_Wald_p","Cox_LRT_p"
+"TCGA (n=75)","Overall Survival",75,25,"iCluster 1-high vs iCluster 1-low","iCluster 1-low",2.289,1.022,5.13,0.0387,0.0442,0.0414
+"TCGA (n=75)","Disease-Specific Survival",75,19,"iCluster 1-high vs iCluster 1-low","iCluster 1-low",2.164,0.865,5.414,0.091,0.0988,0.0962
