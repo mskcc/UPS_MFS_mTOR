@@ -1,0 +1,2 @@
+"Cohort","Endpoint","N","Events","Comparison","Reference","HR","CI_lower_95","CI_upper_95","Logrank_p","Cox_Wald_p","Cox_LRT_p"
+"Mitra et al. 2024 (n=136)","Metastasis-Free Survival",136,48,"iCluster 1-high vs iCluster 1-low","iCluster 1-low",1.858,1.041,3.316,0.0338,0.0362,0.0337
