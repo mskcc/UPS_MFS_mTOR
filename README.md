@@ -4,6 +4,14 @@
 
 Computational methods for MCT-26-0243-ETR
 
+## Abstract
+
+Myxofibrosarcoma (MFS) and undifferentiated pleomorphic sarcoma (UPS) are the most common and deadly adult soft tissue sarcomas of the extremity or trunk, with few effective systemic therapies. To identify potentially actionable vulnerabilities in these genomically complex tumors, unsupervised integrated genomic clustering based on copy number and transcriptome profiles was performed on 94 untreated primary extremity and truncal MFS and UPS patient tumors, stratifying them into 2 clusters. Patients in iCluster1 had a 4.6-fold worse disease-specific survival compared to those in iCluster2 (p=0.005), even when adjusting for tumor size and MFS vs. UPS subtype. Gene set enrichment analysis identified mTOR pathway-associated genes as differentially expressed in the worse-prognosis iCluster 1 compared to iCluster2, which was also enriched in tumors staining positive for phosphorylated S6 on immunohistochemistry. Five of 7 patient-derived MFS/UPS cell lines showed elevated mTOR pathway activity and were sensitive to the TORC1/2 inhibitor INK128. Treatment with INK128 alone, however, resulted in compensatory phosphorylation of multiple upstream receptor tyrosine kinases and downstream MAPK pathway activation, which could be abrogated using the MEK inhibitor trametinib. Combination therapy with INK128 plus trametinib increased apoptosis and decreased cellular proliferation in vitro and inhibited tumor growth in two mouse xenograft models to a greater extent than treatment with either drug alone. Our results demonstrate that a group of particularly aggressive MFS/UPS tumors exhibit elevated mTOR activity and are sensitive to combined mTOR and MEK inhibition, providing rationale to further explore this combination in phase 1/2 clinical trials. 
+
+## Data
+
+Copy number (array CGH) and mRNA expression data are available in the GEO database (accession numbers GSE142573 and GSE343245, respectively). 
+
 ## Contents
 
 | Folder | Description |
